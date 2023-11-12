@@ -26,7 +26,7 @@ Data analyzing using data from [Motivate](https://motivateco.com/), a bike share
 
 
 ### Credits
-* [Data analysis](https://github.com/topics/data-analysis) -  inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information.
+* [Data analysis](https://github.com/topics/data-analysis) -  verifing, cleansing, transforming, and modeling data with the goal of discovering useful information.
 * [Udacity](https://udacity.com) - Programming for Data Science with Python Nanodegree program by Udacity played a very important role in the development of this project.
 * [Repositories](https://docs.github.com/en/repositories) - Learn to use and manage the repositories that allow you to store and collaborate on your project's code.
 * [python3 docs](https://docs.python.org/3/) - Python 3 documentation.
