@@ -1,6 +1,6 @@
 import time
 import pandas as pd
-import numpy as np
+
 
 CITY_DATA = {
     "chicago": "chicago.csv",
@@ -112,8 +112,8 @@ def time_stats(df):
 
     # Display the most common start hour
     df["hour"] = df["Start Time"].dt.hour
-    common_start_hour = df["hour"].mode()[0]
-    print(f"The most common start hour is: {common_start_hour}")
+    usual_start_hour = df["hour"].mode()[0]
+    print(f"The most common start hour is: {usual_start_hour}")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print("-" * 40)
